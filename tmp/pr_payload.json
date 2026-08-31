@@ -1,0 +1,7 @@
+{
+  "title": "docs: Add README for OctoAcme Project Management Docs — summary & links",
+  "head": "octoacme-add-readme",
+  "base": "main",
+  "body": "Closes #2\n\nAdd README for OctoAcme Project Management docs with summary and links.\n\nThis PR adds docs/README.md as the central entry point for the OctoAcme project management process documentation. It summarizes the core principles, lifecycle phases, key artifacts, and role-focused entry points. See the new file for links to the detailed docs in the docs/ folder.",
+  "maintainer_can_modify": true
+}
